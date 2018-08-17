@@ -95,7 +95,7 @@ if __name__ == '__main__':
     #midim =int((dim/2)-1)
     #l     = [0,0, 0, 255, 255, 255, 0, 0, 0] # Oscillators pattern motif    
     life_game    = life(size=(dim,dim),generation=200,setmotif=0)
-    ##game.set_motif(*l,i=midim,j=midim)  # since index start from 0 to (64/2) - 1
+    ##game.set_motif(*l,i=midim,j=midim)  # since index start from 0 to (128/2) - 1
     life_game.play()
 
 
