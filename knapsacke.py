@@ -3,7 +3,7 @@
 Created on Wed Sept 18 21:50:29 2018
 @author: Achraf Baiz
 
-This algorithm try to search in the different levels of the builed tree to find the appropriate set of weigths that will be equal or closest to the bag weight
+This algorithm try to search in the different levels of the built tree to find the appropriate set of weigths that will be equal or closest to the bag weight
 without going greater than it;
 Our tree of sets combination is made bu using lists, eash element of it is a level of the tree, and each level is a number of combination sets.
 
