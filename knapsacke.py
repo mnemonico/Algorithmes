@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Sept 18 21:50:29 2018
+@author: Achraf Baiz
+"""
+
 def combination(list,n,r):
     tab    = []
     list.sort()
