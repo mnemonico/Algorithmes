@@ -49,4 +49,4 @@ if __name__ == "__main__":
     WS=[10,20,30,45]
     W=107
 
-    print(knapsacke(N,WS,W), sep="\n",flush=True)
+    print("|Weight/s               -               Value/s|",knapsacke(N,WS,W), sep="\n",flush=True)
